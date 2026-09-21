@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "018423799c59b90074c2685d",
+  "owner": "mqhqfqqxf",
+  "repo": "page-798b9aae1a868ddddbd756e2",
+  "title": "雷峰(Fastpeak)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "798b9aae1a868ddddbd756e2",
+      "a": "雷峰(Fastpeak)",
+      "b": "2027官方最新地址导航",
+      "entity": "雷峰(Fastpeak)",
+      "brand": "雷峰(Fastpeak)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6a018c3e986d7132173880648b1de83aaf21dadeec26ee49ac0c29e4ee39bfa5",
+      "content": {
+        "primary_entity": "雷峰(Fastpeak)",
+        "keyword1": "雷峰(Fastpeak)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，雷峰(Fastpeak)提供基础版、旗舰版与团队版三档方案，月付从 ¥15 起步，按年付可享更优价格。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并包含 IPLC 专线优化，团队版每月 1000GB 支持 20 台设备。选择时先看常用设备数量与月度流量，再对照订阅周期决定月付或年付。",
+          "AI_HERO_SUBTITLE": "雷峰(Fastpeak)灵活套餐按需选择",
+          "AI_HERO_INTRO": "雷峰(Fastpeak)为个人与团队提供多档加速方案，基础版适合轻度使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备高流量场景。按设备数量与流量需求匹配套餐，再根据使用周期选择月付或年付，订阅配置可参照各客户端文档完成。",
+          "AI_VISUAL_TITLE": "雷峰(Fastpeak)套餐一目了然",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付方案价格更省",
+          "AI_HIGHLIGHT_3": "按设备与流量灵活匹配",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量规模和订阅周期三个角度，快速定位适合自己的雷峰(Fastpeak)套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台同时在线，旗舰版 5 台，团队版 20 台。先数清常用手机、电脑与平板数量，再对应档位。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB 适合网页与轻量视频，旗舰版 300GB 适合高清流媒体，团队版 1000GB 满足多人大流量。",
+          "AI_FEATURE_TITLE_3": "按周期看成本",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更划算。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，长期使用可优先考虑年付方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备对应不同客户端，按平台挑选后依文档导入订阅即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点权益上逐级提升。基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别为 ¥150、¥350、¥850。旗舰版含 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_GUIDE_INTRO": "按选择服务、核对适配要求、导入订阅三步完成雷峰(Fastpeak)的使用准备。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月度流量，在基础版、旗舰版、团队版中选定一档，并决定月付或年付。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本与客户端支持情况，核对同时在线设备数是否满足需要。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中依文档导入订阅信息，完成后即可按所选套餐使用加速服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐轻松加速",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定雷峰(Fastpeak)套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "雷峰(Fastpeak)支持哪些客户端？",
+          "AI_FAQ_ANSWER_1": "常见客户端如 Clash、Shadowrocket、V2rayN、Surge 等均可按设备系统选用。具体兼容情况请参考各客户端文档说明。",
+          "AI_FAQ_QUESTION_2": "一个账号能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出数量可能导致连接被挤占。",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更划算？",
+          "AI_FAQ_ANSWER_3": "以旗舰版为例，月付35元，年付350元，相当于10个月价格使用12个月，长期使用选年付更经济。",
+          "AI_FAQ_QUESTION_4": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_4": "当月流量耗尽后连接可能受限，建议根据实际用量升级套餐或等待下月重置。团队版1000GB适合多人共享。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_5": "在客户端中找到订阅或配置导入入口，粘贴订阅链接并更新，即可加载节点。不同客户端操作略有差异，请按其文档进行。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ingse.cn",
+    "host": "ingse.cn"
+  },
+  "file_hashes": {
+    "index.html": "f8d4c71acea3318c438bc0b8235c98eb8edac2f17190e18d7e72502d8d99c5fa",
+    "sitemap.xml": "942b66bc8129ccc6d80d0b971491cf7e7080e2696a1373c59b6a225971b4f1b9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b2a16041a704d2cb87fd3df5eea50a556fec44e539c31c298a6dfcd4e014e847",
+    "robots.txt": "1feb724294c1dd42c3cf87d6257cd436776b7131d80df0762771176b7813f5af",
+    "60ac108b241f86fd7d8f9e7290d55c41.txt": "cda7af6e8ecec3b57c63edf2a1da17be456da5e7965895346934fd8aa0e77bd7"
+  },
+  "revision": "29d81d540045e888bfb3c2ee394df313398fbc74876bfca20db894358fab904b"
+}
